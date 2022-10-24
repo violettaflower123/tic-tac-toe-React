@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/violettaflower123/tic-tac-toe-React/static/css/main.35f78e8e.css",
+    "main.js": "/violettaflower123/tic-tac-toe-React/static/js/main.7a226f5c.js",
+    "index.html": "/violettaflower123/tic-tac-toe-React/index.html",
+    "main.35f78e8e.css.map": "/violettaflower123/tic-tac-toe-React/static/css/main.35f78e8e.css.map",
+    "main.7a226f5c.js.map": "/violettaflower123/tic-tac-toe-React/static/js/main.7a226f5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35f78e8e.css",
+    "static/js/main.7a226f5c.js"
+  ]
+}
